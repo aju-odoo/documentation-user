@@ -92,7 +92,7 @@ documentation
 Tickets have been created, now what?
 ------------------------------------
 
-Now your employees can start working on them! If you have selecting a
+Now your employees can start working on them! If you have selected a
 manual assignation method then your employees will need to assign
 themselves to tickets using the "Assign To Me" button on the top left of
 a ticket or by adding themselves to the "Assigned to" field.
@@ -110,7 +110,7 @@ How do I mark this ticket as urgent?
 ------------------------------------
 
 On your tickets you will see stars. You can determine how urgent a
-ticket is but selecting one or more stars on the ticket. You can do this
+ticket is by selecting one or more stars on the ticket. You can do this
 in the Kanban view or on the ticket form.
 
 .. image:: media/helpdesk10.png
